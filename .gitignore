@@ -18,3 +18,7 @@ lib-cov
 *.out
 *.pid
 *.gz
+
+/DragonBones/out/
+Egret/4.x/out/
+package-lock.json

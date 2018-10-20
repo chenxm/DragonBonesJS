@@ -70,6 +70,9 @@ namespace dragonBones {
         }
 
         private _scaleEnabled: boolean; // TODO
+        public get scaleEnabled(): boolean {
+            return this._scaleEnabled;
+        }
         /**
          * - For timeline state.
          * @internal

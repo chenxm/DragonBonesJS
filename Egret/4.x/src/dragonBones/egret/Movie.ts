@@ -847,7 +847,7 @@ namespace dragonBones {
             }
             else {
                 // Classic display.
-                super.$render();
+                // super.$render();
             }
         }
         /**
